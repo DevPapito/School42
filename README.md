@@ -1,2 +1,15 @@
 # School42_learn_code
-A repo to my learn sitex code in pattern to Normette in School42
+
+A repo to centralize my projects of School42
+
+## Projects Piscine
+
+### Shell
+
+* [Project Shell00](https://github.com/DevPapito/Project-Shell00)
+
+* [Project Shell01](https://github.com/DevPapito/Project-Shell01)
+
+### C Language
+
+* [Project C00](https://github.com/DevPapito/Project-C00)
