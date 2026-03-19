@@ -1,6 +1,6 @@
 # School42_learn_code
 
-A repo to centralize my projects of School42
+A repo to centralize my projects of School42 in process of Piscine 2026
 
 ## Projects Piscine
 
