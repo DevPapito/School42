@@ -23,3 +23,5 @@ A repo to centralize my projects of School42
 * [Project C04](https://github.com/DevPapito/Project-C04)
 
 * [Project C05](https://github.com/DevPapito/Project-C05)
+
+* [Project C06](https://github.com/DevPapito/Project-C06)
