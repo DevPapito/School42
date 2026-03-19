@@ -13,3 +13,7 @@ A repo to centralize my projects of School42
 ### C Language
 
 * [Project C00](https://github.com/DevPapito/Project-C00)
+
+* [Project C01](https://github.com/DevPapito/Project-C01)
+
+* [Project C02](https://github.com/DevPapito/Project-C02)
