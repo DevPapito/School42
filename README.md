@@ -17,3 +17,5 @@ A repo to centralize my projects of School42
 * [Project C01](https://github.com/DevPapito/Project-C01)
 
 * [Project C02](https://github.com/DevPapito/Project-C02)
+
+* [Project C02](https://github.com/DevPapito/Project-C03)
