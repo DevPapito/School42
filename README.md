@@ -18,4 +18,4 @@ A repo to centralize my projects of School42
 
 * [Project C02](https://github.com/DevPapito/Project-C02)
 
-* [Project C02](https://github.com/DevPapito/Project-C03)
+* [Project C03](https://github.com/DevPapito/Project-C03)
