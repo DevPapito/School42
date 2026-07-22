@@ -1,6 +1,6 @@
-# School42_learn_code
+# School 42 projects
 
-A repo to centralize my projects of School42 in process of Piscine 2026
+A repository show my projects of School 42 Piscine and Milestone
 
 ## Projects Piscine
 
@@ -25,3 +25,11 @@ A repo to centralize my projects of School42 in process of Piscine 2026
 * [Project C05](https://github.com/DevPapito/Project-C05)
 
 * [Project C06](https://github.com/DevPapito/Project-C06)
+
+### Rush
+
+## Projects Milestone
+
+* [Project Library Libft](https://github.com/DevPapito/Library-Libft)
+
+* [Project Library Libftprintf](https://github.com/DevPapito/Library-Libftprintf)
