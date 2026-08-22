@@ -26,3 +26,4 @@ A repository show my projects of School 42 Piscine and Milestone
 * [Project Library Libft](https://github.com/DevPapito/Library-Libft)
 * [Project Library Libftprintf](https://github.com/DevPapito/Library-Libftprintf)
 * [Project Get_next_line](https://github.com/DevPapito/Get_next_line)
+* [Project Push_Swap](https://github.com/DevPapito/push_swap)
